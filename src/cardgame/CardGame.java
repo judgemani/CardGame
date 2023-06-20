@@ -11,8 +11,8 @@ public class CardGame {
 	private SUITS suit;
    
    //mankirat 
-   
-
+   // Mankirat
+    
     public CardGame (Value value, SUITS suit) {
         this.value = value;
         this.suit = suit;
